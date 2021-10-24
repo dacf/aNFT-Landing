@@ -19,23 +19,16 @@ export default function Explainer() {
     return (
 	<div className="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-7xl">
 		<div className="relative">
-			<h1 className="text-4xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">The Autonomy Network is ...</h1>
+			<h1 className="text-4xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">There is arguably nothing more life-like than giving birth to another ...</h1>
 		</div>
 		<div className="relative mt-2 sm:mt-2 lg:mt-2">
 			<div className="flex flex-col sm:flex-row">
 				<dl className="mt-6 space-y-6">
 					<div>
-						<dd className="ml-4 text-xl leading-6 font-medium text-white">An off-the-shelf generalized automation solution</dd>
-						<dd className="mt-2 ml-4 text-xl leading-6 font-medium text-white">Powering the Web3 with on-chain conditional execution</dd>
-						<dd className="mt-2 ml-4 text-xl leading-6 font-medium text-white">A decentralized network built on users, executors and the blockchain.</dd>
-					</div>
-				</dl>
-				<dl className="mt-2 space-y-6">
-					<div>
-						<h1 className="ml-4 justify-center text-xl leading-8 font-extrabold tracking-tight text-white sm:text-xl">The AUTO Token</h1>
-						<dd className="mt-1 ml-4 text-xl leading-6 font-medium text-white">Autonomy's genuine utility token</dd>
-						<dd className="mt-1 ml-4 text-xl leading-6 font-medium text-white">Enabling users to pay discounted network fees, defer execution payment</dd>
-						<dd className="mt-1 ml-4 text-xl leading-6 font-medium text-white">and required to execute transactions</dd>
+						<dd className="ml-4 text-xl leading-6 font-medium text-white">An interesting property of smart contracts is the ability of a contract to create more contracts.</dd>
+						<dd className="mt-2 ml-4 text-xl leading-6 font-medium text-white">Replication can be programmed into a blockchain entity</dd>
+						<dd className="mt-2 ml-4 text-xl leading-6 font-medium text-white">It has been done.... </dd>
+						<dd className="mt-2 ml-4 text-xl leading-6 font-medium text-white">a ‘family-tree’ that reproduces by itself is the first version of cyber life.</dd>
 					</div>
 				</dl>
 			</div>

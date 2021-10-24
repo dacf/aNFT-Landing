@@ -50,6 +50,9 @@ export default function Hero() {
 							<img className="content-center h-12 mr-4 ml-4" src="rarible.svg"/>
 						</Link>
 						<h1 className="text-white mt-3 font-black">Rarible</h1>
+						<Link my={{base: 2, md: 1}} mx={{base: 1, md: 2}} aria-label="ProtocolLabs" rel="noreferrer" target="_blank" href="">
+							<img className="content-center h-12 mr-4 ml-4" src="aave.png"  width="200px" height="50px"/>
+						</Link>
 					</div>
 				</div>
 			</div>

@@ -22,11 +22,11 @@ export default function Discord() {
 				<video
 				style={{ maxWidth: "100%", width: "800px", margin: "0 auto" }}
 				playsInline
+				muted				
 				loop
-				muted
 				controls
 				alt="All the devices"
-				src="https://youtu.be/9d8_IIsln-0"
+				src="/CyberLife.mp4"
 				ref={videoEl}
 				/>
 			</div>

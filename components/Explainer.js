@@ -39,7 +39,7 @@ export default function Explainer() {
 		</div>
 		<div className="relative mt-6 sm:mt-6 lg:mt-6">
 			<div className="flex flex-col mt-4 items-center lg:flex-row lg:space-x-4 lg:justify-center">
-				<img className="h-full w-full"src="TREE.png"></img>
+				<img className="h-1/2 w-1/2 rounded-lg"src="TREE.png"></img>
 			</div>
 		</div>
 		<div className="relative mt-24">

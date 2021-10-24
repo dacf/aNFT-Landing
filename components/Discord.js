@@ -18,7 +18,7 @@ export default function Discord() {
 	  }, []);
     return (
         <div className="max-w-screen-xl mx-auto px-4 py-2 sm:py-6 sm:px-6 lg:py-8 lg:px-8">
-			      <div>
+{/* 			      <div>
 				<video
 				style={{ maxWidth: "100%", width: "800px", margin: "0 auto" }}
 				playsInline
@@ -29,6 +29,9 @@ export default function Discord() {
 				src="/CyberLife.mp4"
 				ref={videoEl}
 				/>
+			</div> */}
+			<div className="flex flex-col mt-4 items-center lg:flex-row lg:space-x-4 lg:justify-center">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/M6ytZMH7A2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
         </div>
     )

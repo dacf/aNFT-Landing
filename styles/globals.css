@@ -1,0 +1,10 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.typewriter {
+		@apply  mt-3 text-xl tracking-tight leading-10 font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-yellow-300 to-blue-600 whitespace-nowrap sm:text-4xl sm:leading-none md:text-4xl;
+	}
+}
